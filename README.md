@@ -23,6 +23,9 @@ Once the database is created and seeded, run "NPM start" at the Bash
 cmd line to start the server. Once the server is running,  you can use Insomnia or Postman to test routes
  for the Catergory, Product and Tag models.
  
+ A video of hoe to use the application is available at the following link.
+ https://watch.screencastify.com/v/ouwo2nmft3KuVT9bZcUi
+ 
 ## Contributions
 Conributions are always welcomed.
 
